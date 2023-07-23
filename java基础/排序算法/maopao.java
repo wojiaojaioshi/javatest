@@ -1,14 +1,24 @@
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class maopao {
     public static void main(String[] args) {
-        Map<String,String>map=new HashMap<>();
-        for (int i = 1; i <4 ; i++) {
-            map.put(String.valueOf(i), "value"+String.valueOf(i));
+        int[]arg={9,8,6,4,2,1,3,51,2,3};
+        int n=arg.length;
+        for (int i = 0; i < n-1 ; i++) {
+            for (int j = 1; j <= n-i-1; j++) {
+                if(arg[j]<arg[j-1])
+                {
+                    int temp=arg[j];
+                    arg[j]=arg[j-1];
+                    arg[j-1]=temp;
+                }
+            }
         }
-        for (Map.Entry<String,String> entry: map.entrySet()) {
-            System.out.println(entry.getKey()+entry.getValue());
+        for (int x:arg) {
+            System.out.print(x+" ");
         }
     }
 }
