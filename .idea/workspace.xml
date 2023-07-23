@@ -9,6 +9,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -19,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6342a58c-8845-4771-9626-75bf8a2a1419" name="Default Changelist" comment="第一次提交">
+    <list default="true" id="6342a58c-8845-4771-9626-75bf8a2a1419" name="Default Changelist" comment="修改maopao文件">
       <change afterPath="$PROJECT_DIR$/../../vuework/vue-video-test/src/assets/test.m3u8" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../vuework/vue-video-test/src/components/VideoTest.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../vuework/vue-video-test/src/plugins/video.js" afterDir="false" />
@@ -1124,8 +1133,6 @@
       <change afterPath="$PROJECT_DIR$/../../若yi/RuoYi-master/ruoyi-admin/src/main/resources/templates/bigShow/tail_more.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../若yi/RuoYi-master/ruoyi-admin/src/main/resources/templates/bigShow/tail_sm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java基础/排序算法/maopao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java基础/排序算法/maopao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javatest/maopao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javatest/maopao.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1470,7 +1477,7 @@
       <workItem from="1668773018014" duration="58000" />
       <workItem from="1689689975243" duration="916000" />
       <workItem from="1689950526988" duration="858000" />
-      <workItem from="1690081757404" duration="4393000" />
+      <workItem from="1690081757404" duration="4947000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1690087385447</created>
@@ -1479,7 +1486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690087385447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改maopao文件">
+      <created>1690088782636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690088782636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1512,7 +1526,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="修改maopao文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改maopao文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="634" y="154" key="FileChooserDialogImpl" timestamp="1690082113367">
@@ -1527,34 +1542,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="368" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690087727305" />
-    <state width="1855" height="228" key="GridCell.Tab.0.bottom" timestamp="1690088417314">
+    <state width="1855" height="3" key="GridCell.Tab.0.bottom" timestamp="1690088785704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690088417314" />
-    <state width="1855" height="228" key="GridCell.Tab.0.center" timestamp="1690088417314">
+    <state width="1855" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
+    <state width="1855" height="3" key="GridCell.Tab.0.center" timestamp="1690088785704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="228" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690088417314" />
-    <state width="1855" height="228" key="GridCell.Tab.0.left" timestamp="1690088417314">
+    <state width="1855" height="3" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
+    <state width="1855" height="3" key="GridCell.Tab.0.left" timestamp="1690088785704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="228" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690088417314" />
-    <state width="1855" height="228" key="GridCell.Tab.0.right" timestamp="1690088417314">
+    <state width="1855" height="3" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
+    <state width="1855" height="3" key="GridCell.Tab.0.right" timestamp="1690088785704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="228" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690088417314" />
+    <state width="1855" height="3" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
     <state x="566" y="73" key="RollbackChangesDialog" timestamp="1690082086706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="566" y="73" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690082086706" />
-    <state x="203" y="0" key="SettingsEditor" timestamp="1690087276263">
+    <state x="203" y="0" key="SettingsEditor" timestamp="1690089114860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="203" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1690087276263" />
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1690087347989">
+    <state x="203" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1690089114860" />
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1690089092645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690087347989" />
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690089092645" />
     <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1689951854940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
