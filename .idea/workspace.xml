@@ -1133,6 +1133,7 @@
       <change afterPath="$PROJECT_DIR$/../../若yi/RuoYi-master/ruoyi-admin/src/main/resources/templates/bigShow/tail_more.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../若yi/RuoYi-master/ruoyi-admin/src/main/resources/templates/bigShow/tail_sm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java基础/排序算法/maopao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java基础/排序算法/maopao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1238,13 +1239,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1477,7 +1480,8 @@
       <workItem from="1668773018014" duration="58000" />
       <workItem from="1689689975243" duration="916000" />
       <workItem from="1689950526988" duration="858000" />
-      <workItem from="1690081757404" duration="4947000" />
+      <workItem from="1690081757404" duration="5304000" />
+      <workItem from="1690120870192" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1690087385447</created>
@@ -1493,7 +1497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690088782636</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改maopao文件">
+      <created>1690089181254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690089181254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1542,22 +1553,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="368" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1690087727305" />
-    <state width="1855" height="3" key="GridCell.Tab.0.bottom" timestamp="1690088785704">
+    <state width="1855" height="3" key="GridCell.Tab.0.bottom" timestamp="1690089473929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
-    <state width="1855" height="3" key="GridCell.Tab.0.center" timestamp="1690088785704">
+    <state width="1855" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690089473929" />
+    <state width="1855" height="3" key="GridCell.Tab.0.center" timestamp="1690089473929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="3" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
-    <state width="1855" height="3" key="GridCell.Tab.0.left" timestamp="1690088785704">
+    <state width="1855" height="3" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690089473929" />
+    <state width="1855" height="3" key="GridCell.Tab.0.left" timestamp="1690089473929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="3" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
-    <state width="1855" height="3" key="GridCell.Tab.0.right" timestamp="1690088785704">
+    <state width="1855" height="3" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690089473929" />
+    <state width="1855" height="3" key="GridCell.Tab.0.right" timestamp="1690089473929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="3" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690088785704" />
+    <state width="1855" height="3" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690089473929" />
     <state x="566" y="73" key="RollbackChangesDialog" timestamp="1690082086706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1566,10 +1577,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="203" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1690089114860" />
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1690089092645">
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2" timestamp="1690089190745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690089092645" />
+    <state x="352" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690089190745" />
     <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1689951854940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
