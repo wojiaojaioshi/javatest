@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/百度" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/阅文" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/剑指offer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/力扣周赛" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/排序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/动态规划" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/深拷贝和浅拷贝" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java基础/线程创建" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法基础/贪心" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法基础/BDfs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/美团" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/京东" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法基础/最长回文子串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/微众银行" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/奇安信" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/欧科" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/闪送" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/海能达" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java基础/排序算法" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
