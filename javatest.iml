@@ -26,6 +26,9 @@
       <sourceFolder url="file://$MODULE_DIR$/闪送" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/海能达" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java基础/排序算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hwod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java基础/爪洼基础" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java基础/力扣" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
